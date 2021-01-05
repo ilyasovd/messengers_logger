@@ -1,0 +1,4 @@
+%{
+  "meck": {:hex, :meck, "0.9.0", "cb40c223cf403db2d09def59d32d3682074ebecceb64f3e6f6c4477458df124d", [:rebar3], [], "hexpm", "f813e90dd0b89b2516a0201a355e84b1abc78b5751aa0cbf669a9d85a810ac63"},
+  "placebo": {:hex, :placebo, "2.0.0", "c0e773dec77e941bcbcc14d10b759f2d66775aff9b75051f3e41939b64300e81", [:mix], [{:meck, "~> 0.9", [hex: :meck, repo: "hexpm", optional: false]}], "hexpm", "e0872cec8848d7e59ba96396f45ee1ad34662c689c86ba6190694d38b4289844"},
+}
